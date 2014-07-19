@@ -9,14 +9,3 @@ ssh :: git@github.com:usergithubb/Myproject.git
 http :: https://github.com/usergithubb/Myproject.git
 
 git pull: If you’re working on your local computer and want the most up-to-date version of your repository to work with, you “pull” the changes down from GitHub with this command.
-1
-1
-2
-3
-4
-5
-65
-76
-77
-67
-44
